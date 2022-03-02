@@ -1,0 +1,29 @@
+{
+  "name": "petmidia",
+  "version": "1.0.0",
+  "description": "Redes Social dedicada os pets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "petmidia"
+  },
+  "keywords": [
+    "NODEJS",
+    "REACTJS",
+    "MONGODB",
+    "JAVASCRIPT",
+    "HTML",
+    "EXPRESS"
+  ],
+  "author": "Diogo Paixão",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
